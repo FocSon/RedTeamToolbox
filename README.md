@@ -1,24 +1,25 @@
 # Red Team Toolbox
 
-I won't accept PR, take this document as my personnal notes.
+I won't accept PRs — take this document as my personal notes.
 
 ## Cracking
-- [https://dogbolt.org/](https://dogbolt.org/) - Online decompiler
-- [https://crackstation.net/](Crackstation) - Weak or known hashes cracker
+- [Dogbolt](https://dogbolt.org/) — Online decompiler
+- [CrackStation](https://crackstation.net/) — Cracker for weak or known hashes
 
 ## Linux privilege escalation
-- [https://github.com/peass-ng/PEASS-ng](LinPeas) - Auto enumeration
-- [https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh](LinEum) - Auto enumeration
-- [https://gtfobins.github.io/](GTFOBins) - Linux binary exploit database
+- [PEASS-ng](https://github.com/peass-ng/PEASS-ng) — Auto enumeration
+- [LinEnum.sh](https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh) — Auto enumeration
+- [GTFOBins](https://gtfobins.github.io/) — Linux binary privilege-escalation database
 
-## Docker evasion
-- [https://github.com/stealthcopter/deepce](Deepce) - Auto enumeration
+## Docker evasion / breakout
+- [deepce](https://github.com/stealthcopter/deepce) — Auto enumeration
 
-## Usefull databases
-- [https://www.cvedetails.com/](CVEDetails) - CVE database
-- [https://www.exploit-db.com/](Exploit-DB) - Exploit database
-- [https://www.exploit-db.com/google-hacking-database](Exploit-DB : Google Dorks) - Google dorks database
+## Useful databases
+- [CVE Details](https://www.cvedetails.com/) — CVE database
+- [Exploit-DB](https://www.exploit-db.com/) — Exploit database
+- [Exploit-DB — Google Dorks](https://www.exploit-db.com/google-hacking-database) — Google dorks collection
+- [GTFOBins](https://gtfobins.github.io/) — Linux binary privilege-escalation database
 
 ## Misc
-- [https://book.hacktricks.wiki/en/index.html](Hacktricks) - General knowledge
-- [https://www.revshells.com/](RevShells) - Reverse shell generator
+- [HackTricks book](https://book.hacktricks.wiki/en/index.html) — General red team & pentest knowledge
+- [RevShells](https://www.revshells.com/) — Reverse shell generator
