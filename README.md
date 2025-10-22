@@ -4,6 +4,7 @@ I won't accept PR, take this document as my personnal notes.
 
 ## Cracking
 - [https://dogbolt.org/](https://dogbolt.org/) - Online decompiler
+- [https://crackstation.net/](Crackstation) - Weak or known hashes cracker
 
 ## Linux privilege escalation
 - [https://github.com/peass-ng/PEASS-ng](LinPeas) - Auto enumeration
